@@ -1,0 +1,1 @@
+TripFare is a full-stack machine learning solution designed to optimize urban transportation pricing through predictive modeling. Leveraging real-world taxi trip datasets from New York City, this project integrates advanced data engineering, supervised learning algorithms, and interactive deployment techniques to build a robust and scalable taxi fare prediction system.
